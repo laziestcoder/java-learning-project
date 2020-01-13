@@ -1,5 +1,4 @@
 package mainpackage;
-import java.io.*;
 
 public class EmployeeTest {
 
